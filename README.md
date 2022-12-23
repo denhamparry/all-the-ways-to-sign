@@ -6,3 +6,7 @@ A demo of different ways to sign git commits
 
 - This commit was done without a signature
 
+## By using a local key
+
+- This commit was done with a key stored in 1Password
+
