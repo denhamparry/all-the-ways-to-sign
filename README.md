@@ -10,3 +10,7 @@ A demo of different ways to sign git commits
 
 - This commit was done with a key stored in 1Password
 
+## By using gitsign
+
+- This commit was done with gitsign and an ephemeral key
+
